@@ -1,0 +1,72 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="Choristar.com" resolutions="1x" timestamp="1626653211645">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="513319904" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
+    <file name="museutils.js" crc="275725342" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index"/>
+    <file name="webpro.js" crc="3883484123" ref="index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index"/>
+    <file name="form_check.php" crc="3932029206" ref="index"/>
+    <file name="form_throttle.php" crc="314685628" ref="index"/>
+    <file name="form_process.php" crc="401030677" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="form-u349.php" crc="309959052" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="favicon.ico" crc="3804583482" ref="index"/>
+    <file name="u262.png" crc="3759654031" ref="index"/>
+    <file name="u262-r.png" crc="3759654031" ref="index"/>
+    <file name="u241.png" crc="369899386" ref="index"/>
+    <file name="u241-r.png" crc="369899386" ref="index"/>
+    <file name="u321.png" crc="4228526652" ref="index"/>
+    <file name="u321-r.png" crc="4228526652" ref="index"/>
+    <file name="u321-m.png" crc="4228526652" ref="index"/>
+    <file name="movistar.jpg" crc="4219481138" seo="true" ref="index"/>
+    <file name="u197.png" crc="3913407634" ref="index"/>
+    <file name="u197-r.png" crc="227518011" ref="index"/>
+    <file name="u197-m.png" crc="4220765756" ref="index"/>
+    <file name="u197-a.png" crc="227518011" ref="index"/>
+    <file name="u205.png" crc="515589943" ref="index"/>
+    <file name="u205-r.png" crc="4045064317" ref="index"/>
+    <file name="u205-m.png" crc="4213941641" ref="index"/>
+    <file name="u205-a.png" crc="4045064317" ref="index"/>
+    <file name="u210.png" crc="3975843175" ref="index"/>
+    <file name="u210-r.png" crc="126989607" ref="index"/>
+    <file name="u210-m.png" crc="179241303" ref="index"/>
+    <file name="u210-a.png" crc="126989607" ref="index"/>
+    <file name="u231.png" crc="191824522" ref="index"/>
+    <file name="u231-r.png" crc="252529289" ref="index"/>
+    <file name="u231-m.png" crc="4131387404" ref="index"/>
+    <file name="u231-a.png" crc="252529289" ref="index"/>
+    <file name="u223.png" crc="4134684128" ref="index"/>
+    <file name="u223-r.png" crc="4123022196" ref="index"/>
+    <file name="u223-m.png" crc="209006039" ref="index"/>
+    <file name="u223-a.png" crc="4123022196" ref="index"/>
+    <file name="u285.png" crc="4214900759" ref="index"/>
+    <file name="u285-r.png" crc="403974844" ref="index"/>
+    <file name="u285-m.png" crc="259145777" ref="index"/>
+    <file name="u285-a.png" crc="403974844" ref="index"/>
+    <file name="barra horizontal 1.jpg" crc="4017916801" seo="true" ref="index"/>
+    <file name="u362-17.png" crc="3769798109" ref="index"/>
+    <file name="u362-17-r.png" crc="3769798109" ref="index"/>
+    <file name="u362-17-m.png" crc="3769798109" ref="index"/>
+    <file name="u362-17-fs.png" crc="38272049" ref="index"/>
+    <file name="imagen pegada 397x92.jpg" crc="446119212" seo="true" ref="index"/>
+    <file name="part1.jpg" crc="52419767" seo="true" ref="index"/>
+    <file name="part2.jpg" crc="4070030139" seo="true" ref="index"/>
+    <file name="part3.jpg" crc="526609800" seo="true" ref="index"/>
+    <file name="part4.jpg" crc="3792678909" seo="true" ref="index"/>
+    <file name="u758-4.png" crc="3936177949" ref="index"/>
+    <file name="u765-4.png" crc="4201520270" ref="index"/>
+    <file name="telefonica.jpg" crc="4008147324" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4205590388" seo="true" mt="1626653180248" redirect="true"/>
+</manifest>
